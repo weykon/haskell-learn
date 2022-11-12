@@ -1,1 +1,3 @@
-doubelMe x = x + x
+doubleMe x = x + x
+
+doubleUs x y = doubleMe x + doubleMe y

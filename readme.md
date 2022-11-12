@@ -5,7 +5,8 @@
 使用
 ```ghci
 :l [code_file_name.hs]
-``
+```
+
 将代码写入complie-time(run-time)中.
 
 然后可以直接输入函数名（填入参数）运行.
